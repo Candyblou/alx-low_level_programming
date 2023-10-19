@@ -5,7 +5,7 @@
  * Return 1 for alphabetic character or 0 for other
  */
 
-int _isalpha(int c);
+int _isalpha(int c)
 
 {
 	if ((c >= 65 && c <= 99) || (c >= 97 && c <= 122))
