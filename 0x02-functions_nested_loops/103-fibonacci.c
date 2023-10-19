@@ -2,7 +2,7 @@
 /**
  * main - Prints the sum of even Fibonacci numbers
  * less than 4000000.
- * Return Nothing!
+ * Return: Nothing!
  */
 
 int main(void)
