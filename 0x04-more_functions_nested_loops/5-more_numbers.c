@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * more numbers - prints nrs 0 till 14 ten times
+ * more_numbers - prints nrs 0 till 14 ten times
  *
  */
 
-void more_numbers (void)
+void more_numbers(void)
 {
 	int i, j;
 
