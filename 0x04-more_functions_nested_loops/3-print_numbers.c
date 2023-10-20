@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
  * _putchar - writes out character
+ * print_numbers: prints nrs from 0 to 9
  * @c: character written
- * print_numbers - prints nrs from 0 to 9
  * Return: Nrs from 0 to 9
  */
 
